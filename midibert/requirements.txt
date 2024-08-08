@@ -1,0 +1,9 @@
+matplotlib>=3.3.3
+mido==1.2.10
+chorder==0.1.2
+miditoolkit==0.1.14
+scikit_learn==0.24.2
+transformers==4.8.2
+SoundFile
+tqdm
+pypianoroll

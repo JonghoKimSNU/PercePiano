@@ -1,0 +1,13 @@
+{
+    "note_size": 256,
+    "note_layer": 1,
+    "voice_size": 256,
+    "voice_layer": 1,
+    "beat_size": 256,
+    "beat_layer": 1,
+    "measure_size": 256,
+    "measure_layer": 1,
+    "num_attention_head": 8,
+    "drop_out": 0.2
+   
+}
