@@ -1,4 +1,6 @@
 # Percepiano
+[![DOI](https://zenodo.org/badge/839203746.svg)](https://zenodo.org/doi/10.5281/zenodo.13269612)
+
 
 This is the implementation of PercePiano: Piano Performance Evaluation Dataset with Multi-level Perceptual Features. The code is based on [MidiBERT-Piano](https://github.com/wazenmai/MIDI-BERT) and [Virtuosonet](https://github.com/jdasam/virtuosoNet).
 
@@ -138,4 +140,6 @@ python data_creation/prepare_data/main_percepiano.py --dataset=percepino --task=
 ```
 ### Eval
 - e.g.
+```
 ./scripts/finetune_cv/performer4fold/eval_performer_addons.sh
+```
